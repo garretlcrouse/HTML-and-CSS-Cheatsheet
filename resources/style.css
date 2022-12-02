@@ -2,13 +2,38 @@ h1 {
     text-align: center;
     color:steelblue;
     font-family:monospace;
-    font-size: 45px;
+    font-size: 65px;
 }
 
 .boilerh2 {
-    text-align: center;
+    text-align: left;
+    color:steelblue;
+    font-family: monospace;
+    font-size: 45px;
 }
 
 .boilerp {
-    text-align: center;
+    text-align: left;
+    color: crimson;
+    font-family: monospace;
+    font-size: 25px;
+
+}
+
+.table1 {
+
+    color: crimson;
+    font-family: monospace;
+    font-size: 18px;
+}
+
+#thead {
+    color: crimson;
+    font-family: monospace;
+    font-size: 20;
+}
+
+
+body {
+    background-color: palegoldenrod;
 }
