@@ -24,16 +24,24 @@ h1 {
 
     color: crimson;
     font-family: monospace;
-    font-size: 18px;
+    font-size: 17px;
+    
 }
 
 #thead {
     color: crimson;
     font-family: monospace;
-    font-size: 20;
+    font-size: 20px;
 }
 
 
 body {
     background-color: palegoldenrod;
+}
+
+.table1, #thead {
+border-collapse: collapse;
+border: 1px solid black;
+padding: 10px;
+max-width: 700px;
 }
